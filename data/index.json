@@ -1,0 +1,41 @@
+{
+  "dictionaries": [
+    {
+      "slug": "poi",
+      "parcelId": "POI",
+      "title": "POI — global travel registry (demonstration)",
+      "sourceLanguage": "en",
+      "translationLanguages": [
+        "zh-TW",
+        "zh-HK",
+        "zh-CN",
+        "ja",
+        "ko",
+        "fr",
+        "it",
+        "de",
+        "es",
+        "th",
+        "vi",
+        "pt",
+        "ar",
+        "tr",
+        "el",
+        "nl",
+        "pl",
+        "cs",
+        "hu"
+      ],
+      "counts": {
+        "class": 731,
+        "property": 11,
+        "value_list": 0,
+        "value_term": 0,
+        "unit": 0,
+        "relation": 0,
+        "view_control": 0
+      },
+      "metaClassIrdis": []
+    }
+  ]
+}
